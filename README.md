@@ -1,6 +1,6 @@
 # Abstractive-Text-Summarization-Approaches-to-Improving-Factual-Consistency
 
-This is a Repository that aggregates all the blocks that are used on the current work
+This is a Repository that aggregates all the blocks that are used in the current work
 
 Fact-check-summarization (QUALS): https://github.com/Usstasikus/fact-check-summarization
 
